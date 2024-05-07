@@ -1,0 +1,2 @@
+# Video-Game-Sales-Data-Analysis
+Analyzing the data provided in the dataset: https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download
